@@ -32,7 +32,7 @@
     }
     
     header {
-      background: url('./img/header.jpg'), url('./headerlogo.jpg');
+      background: url('../img/header.jpg'), url('../img/headerlogo.png');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center, center;
