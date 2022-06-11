@@ -32,7 +32,7 @@
     }
     
     header {
-      background: url('https://www.wallpaperup.com/uploads/wallpapers/2013/02/15/40187/2e32eedcb0be2e175d0de8d5cff8cadd-700.jpg');
+      background: url('./img/header.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: cover;
